@@ -110,6 +110,6 @@ These insights provide a clear picture of project health and help guide next ste
 
 ## 🖼️ Dashboard Screenshot
 
-```md
-![Public Dashboard](/DataModel2.png)
-![Public Datamodel](/Dashboard2.png)
+
+![Public Dashboard](./DataModel2.png)
+![Public Datamodel](./Dashboard2.png)
